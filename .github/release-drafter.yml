@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: variablesConvert2Shell-$NEXT_MINOR_VERSION
